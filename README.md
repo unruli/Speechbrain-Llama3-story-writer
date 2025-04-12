@@ -1,4 +1,4 @@
-# 📚 Speechbrain-LLaMA3-Story-Writer
+# 📚 Speechbrain-LLaMA3-Story-Writers
 
 Turn your voice prompt into a story! 🎙️✍️  
 This project uses [SpeechBrain](https://speechbrain.readthedocs.io/) to transcribe spoken audio into text, and passes the transcribed prompt to a [LLaMA 3](https://huggingface.co/models?search=llama-3) language model to generate a creative short story.
